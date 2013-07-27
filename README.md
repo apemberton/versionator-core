@@ -1,0 +1,4 @@
+versionator-core
+================
+
+Versionator Core
